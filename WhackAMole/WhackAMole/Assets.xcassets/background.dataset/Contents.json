@@ -1,0 +1,19 @@
+{
+  "data" : [
+    {
+      "filename" : "background.webp",
+      "idiom" : "universal",
+      "universal-type-identifier" : "org.webmproject.webp"
+    },
+    {
+      "idiom" : "iphone"
+    },
+    {
+      "idiom" : "ipad"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
